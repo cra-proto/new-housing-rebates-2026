@@ -1,0 +1,132 @@
+---
+layout: default
+title: "New housing rebates - Apply: Buyers"
+description: "GST/HST - Find out if you are eligible for the GST/HST new housing rebate, which GST/HST new housing rebate you can claim, and what information to include with the rebate application and what records to keep"
+subject: "Economics and Industry;Taxes"
+keywords: "individual, business, guide, co-op, major addition, bed and breakfast, construction, GST, HST, GST/HST rebates, new housing rebates, renovations, mobile homes, owner-built homes, RC4028, GST190, GST191, GST191-WS, RC7190-WS"
+auth:
+  type: "contextual"
+  label: "Sign in"
+  labelExtended: "CRA sign in"
+  link: "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html"
+altLangPage: "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises/remboursements-tps-tvh/remboursement-habitations-neuves.html"
+dateModified: 2026-09-24
+dateIssued: 2016-09-14
+breadcrumbs: # By default the Canada.ca crumbs is already set
+  - title: "Taxes"
+    link: "https://www.canada.ca/en/services/taxes.html"
+  - title: "GST/HST for businesses"
+    link: "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+  - title: "Claim a GST/HST rebate"
+    link: "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates.html"
+feedbackData:
+  section: "GST/HST new housing rebate"
+notedlinks:
+  - title: "GST/HST new housing rebate"
+    link: "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebate.html"
+  - title: "Repository sitemap"
+    link: "https://cra-proto.github.io/new-housing-rebates-2026/index.html"
+---
+<div class="container">
+    <nav class="gc-subway provisional">
+        <h1>Apply for a new housing rebate<span class="nowrap"></span></h1>
+        <ul>
+            <li><a href="">What are the available rebates</a></li>
+            <li><a href="https://cra-test-arc.canada.ca/new-housing-rebates-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebates/Subway/eligibility.html">Who can apply</a></li>
+            <li>
+                <a href="https://cra-test-arc.canada.ca/new-housing-rebates-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebates/Subway/how-apply.html">How to apply</a> 
+             <ul class="noline">
+					                    <li><a href="/apply-builders.html">Applying for the rebate: For builders </a></li>
+                    <li><a href="" class="active">Applying for the rebate: Home purchased from a builder</a></li>
+                    <li><a href="https://cra-test-arc.canada.ca/new-housing-rebates-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebates/Subway/apply-owners.html">Applying for the rebate: Owner-built home </a></li>
+                </ul>
+            </li>
+            <li><a href="https://cra-test-arc.canada.ca/new-housing-rebates-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebates/Subway/after.html">After you apply</a></li>
+        </ul>
+    </nav>
+
+    <h1 property="name" id="wb-cont" class="gc-thickline">Applying for the rebate: Home purchased from a builder</h1>
+   
+   <p>Intro</p>
+   
+     <h2 class="h3">On this page</h2>
+    <ul>
+		 <li><a href="#who">Who must submit the application</a></li>
+		 
+       <!-- <li><a href="#full">The builder gives you the full rebate amount</a></li>
+        <li><a href="#some">The builder only gives you some of the rebate</a></li>
+		<li><a href="#none">The builder does not give you the rebate</a></li>-->
+		<li><a href="#how">How to submit</a></li>
+    </ul>
+
+	<h2 id="who">Who must submit the application</h2>
+    <h3 id="full">The builder gives you the full rebate amount</h3>
+        <p>If you and the builder agree that the builder will pay or credit you with the amount of the rebate, the builder must file your application with the CRA. </p>
+        <p>You may not file another rebate application directly with us for this house, unless the builder only provided a part of the rebates you are entitled to</p>
+
+  <h3 id="some">The builder only gives you some of the rebate </h3>
+  <p>You and the builder might agree that the builder will pay or credit only the new housing rebate to you, and not the FTHB rebate (for example, if ownership of the home is transferred prior to receiving Royal Assent for the FTHB rebate). In this case, the builder must only send your rebate application for the new housing rebate to the CRA. </p>
+<p>To receive the FTHB rebate, you must file a rebate application (application type 2 or 5) and Ontario rebate schedule (if applicable) with the CRA for only the FTHB rebate. You have up to 2 years from the date ownership (application type 1A, 1B, or 2) or possession (application type 5) of the house was transferred to you to claim your rebate. </p>
+  <p>For details on filling out the rebate application, refer to: <a href=""> Guide RC4028, GST/HST New Housing Rebate</a>.</p>
+
+  <details>
+    <summary>Exception: House purchase prior to Royal Assent</summary>
+    <p>If a rebate application was submitted for a house purchase that occurred prior to Royal Assent (March 12, 2026), you may submit another rebate application for the federal FTHB rebate or Ontario rebate at a later date (within the 2 year time limit to apply). </p>
+  </details>
+
+	<h3 id="none">The builder does not give you the rebate</h3>
+<p>If the builder does not pay or credit the rebate to you as the buyer, you must submit your application yourself. </p>
+  <p>A co-op cannot pay or credit the rebate to you. In this case, you must submit the application yourself. </p>
+  <h4 class="h5"><i class="fas fa-search" style="color: rgb(255, 212, 59);"></i> Confirm you haven't already received the rebate </h4>
+  <p>Check your agreement of purchase and sale and statement of adjustments to confirm you haven’t received the rebate. The builder may have already built the rebate into the price. In this case, you may not apply for the rebate again.</p>
+  <h3>When to submit</h3>
+  <p>Generally, you have up to 2 years from the date ownership or possession was transferred to you to claim your rebate.</p>
+
+  <h2 id="how">How to submit</h2>
+
+  
+    <p>Determine your application type:</p>
+  <dl class="dl-horizontal">
+      <dt>Application type 2 </dt>
+      <dd>You bought the house and land from a builder </dd>
+      <dt>Application type 5 </dt>
+      <dd>You bought the house and <strong>lease</strong> the land from a builder </dd>
+      <dt>Application type 3 </dt>
+      <dd>You purchased a share of the capital stock of a co-operative housing corporation </dd>
+    </dl>
+
+  <div class="wb-tabs mrgn-tp-lg">
+    <div class="tabpanels">
+      <details id="details-panel1" class="provisional wb-details-close"><summary class="py-4"><span class="fas fa-desktop mrgn-rght-sm"></span>Online</summary><p>Submit your application online in your CRA account.</p>
+<p class="mrgn-lft-lg"><a class="btn btn-call-to-action" href="/en/revenue-agency/services/e-services/cra-login-services.html">CRA sign in</a></p>
+<ol class="lst-spcd">
+<li>Sign in to your CRA account</li>
+<li>Select your <strong>Individual</strong> or <strong>Representative</strong> account</li>
+<li>Select <strong>File a GST/HST rebate</strong>:<ul>
+<li>In My Account, under “More services”</li>
+<li>In Represent a Client, in the “Rebates” tab of the appropriate GST/HST program account number</li>
+</ul>
+</li>
+</ol>
+</details> <details id="details-panel2" class="provisional wb-details-close"><summary class="py-4"><span class="fas fa-envelope mrgn-rght-sm"></span>By mail</summary><p>If you can't submit your application online, you can send it by mail.</p>
+<ol>
+<li>Fill out your forms:<dl>
+ <dt>To help you determine the amount of the GST/HST you paid during the construction</dt> <dd><a href="/en/revenue-agency/services/forms-publications/forms/gst191-ws.html">Form GST191-WS, Construction Summary Worksheet</a></dd> <dt>To recover the GST or federal part of the HST</dt> <dd><a href="/en/revenue-agency/services/forms-publications/forms/gst191.html">Form GST191, GST/HST New Housing Rebate Application for Owner-Built Houses</a></dd> <dt>Recover some of the provincial part of the HST (if your house is in Ontario)</dt> <dd><a href="/en/revenue-agency/services/forms-publications/forms/rc7191-on.html">RC7191-ON GST191 Ontario Rebate Schedule</a></dd> </dl>
+</li>
+<li>Send the completed forms to the address on the form</li>
+</ol>
+</details></div>
+</div>
+    <p class="mrgn-tp-lg">For detailed guidance on filling out these forms and where to send your application, refer to: <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html">Guide RC4028, GST/HST New Housing Rebate</a></p>
+
+	
+ 
+	 <nav class="gc-subway-pagination">
+        <h2 class="wb-inv">Document navigation</h2>
+        <ul class="pager">
+            <li class="next">
+                <a href="https://cra-test-arc.canada.ca/new-housing-rebates-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/new-housing-rebates/Subway/after.html" rel="next"><span class="wb-inv">Next: </span>After you apply</a>
+            </li>
+        </ul>
+    </nav>
+	</div>
